@@ -19,4 +19,3 @@ def nyc_pigeon_organizer(data)
     pigeon_names
 end
 
-#line 12 is where binding.pry stop working
