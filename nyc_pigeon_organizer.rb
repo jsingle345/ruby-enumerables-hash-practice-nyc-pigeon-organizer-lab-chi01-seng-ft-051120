@@ -14,7 +14,6 @@ def nyc_pigeon_organizer(data)
              end
             pigeon_names[name][key].push(key2.to_s)
         }
-        binding.pry
       }
     }
     pigeon_names
