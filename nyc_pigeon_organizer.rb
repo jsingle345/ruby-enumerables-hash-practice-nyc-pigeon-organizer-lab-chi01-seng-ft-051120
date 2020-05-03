@@ -14,10 +14,9 @@ def nyc_pigeon_organizer(data)
              end
             pigeon_names[name][key].push(key2)
         }
-        pigeon_names
       }
     }
-    
+    pigeon_names
 end
 
 #line 12 is where binding.pry stop working
